@@ -1,0 +1,6 @@
+{
+  "name": "EDIXIAL - Movies, Games & Admin Portal",
+  "description": "A premier entertainment hub for movies, games, and series with secure Firebase Google Authentication and a full-featured Admin Management Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
